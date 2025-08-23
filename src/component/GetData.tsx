@@ -12,7 +12,7 @@ const GetData = ({ children }: GetDataProps) => {
     const fetchWeatherData = async () => {
       try {
         const response = await fetch(
-          "http://localhost:5000/weather?city=" +
+          "https://weather-2i0b.onrender.com/WeatherApp?city=" +
             encodeURIComponent(children || "Bucharest")
         );
         if (!response.ok) {
