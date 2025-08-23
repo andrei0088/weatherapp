@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/WeatherApp/static/css/main.4e0119dd.css",
-    "main.js": "/WeatherApp/static/js/main.c461ebd0.js",
-    "static/js/453.278c62c6.chunk.js": "/WeatherApp/static/js/453.278c62c6.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/WeatherApp/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
-    "static/media/bootstrap-icons.woff2?": "/WeatherApp/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
-    "index.html": "/WeatherApp/index.html",
-    "main.4e0119dd.css.map": "/WeatherApp/static/css/main.4e0119dd.css.map",
-    "main.c461ebd0.js.map": "/WeatherApp/static/js/main.c461ebd0.js.map",
-    "453.278c62c6.chunk.js.map": "/WeatherApp/static/js/453.278c62c6.chunk.js.map"
+    "main.css": "/weatherapp/static/css/main.4e0119dd.css",
+    "main.js": "/weatherapp/static/js/main.c461ebd0.js",
+    "static/js/453.278c62c6.chunk.js": "/weatherapp/static/js/453.278c62c6.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/weatherapp/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/weatherapp/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/weatherapp/index.html",
+    "main.4e0119dd.css.map": "/weatherapp/static/css/main.4e0119dd.css.map",
+    "main.c461ebd0.js.map": "/weatherapp/static/js/main.c461ebd0.js.map",
+    "453.278c62c6.chunk.js.map": "/weatherapp/static/js/453.278c62c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e0119dd.css",
